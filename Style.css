@@ -12,8 +12,8 @@ text-align: center;
 background-image: url(Binary.jpg) ;
 }
 
-p{color: rgb(184, 45, 3);
-border: forestgreen;
+p{color: rgb(0, 0, 0);
+
 border-width: 100px ;}
 
 body{margin-top: 50px;}
@@ -25,5 +25,6 @@ padding: 10px 0;
 
 head {background-image: url(Binary.jpg) ;}
 
-nav a{margin: 20px;}
-
+nav a{margin: 20px;
+text-decoration-color:rgb(128, 33, 4);
+color: rgb(128, 33, 4);}
