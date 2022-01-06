@@ -1,4 +1,4 @@
-*{border: darkred;}
+* {border: darkred;}
 
 img {width: 100px;
 height: 150px;
@@ -8,9 +8,10 @@ margin-right: 10px;}
 
 h1{color: rgb(128, 33, 4);
 text-decoration: underline;
-text-align: center;}
+text-align: center;
+background-image: url(Binary.jpg);}
 
-p{color: blueviolet;
+p{color: rgb(184, 45, 3);
 border: forestgreen;
 border-width: 100px ;}
 
