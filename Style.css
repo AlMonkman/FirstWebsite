@@ -1,4 +1,4 @@
-* {border: darkred;}
+
 
 img {width: 100px;
 height: 150px;
@@ -9,13 +9,21 @@ margin-right: 10px;}
 h1{color: rgb(128, 33, 4);
 text-decoration: underline;
 text-align: center;
-background-image: url(Binary.jpg);}
+background-image: url(Binary.jpg) ;
+}
 
 p{color: rgb(184, 45, 3);
 border: forestgreen;
 border-width: 100px ;}
 
-body{border: darksalmon;}
+body{margin-top: 50px;}
 
-nav{text-align: center;}
+nav{text-align: center;
+border: solid black;
+padding: 10px 0;
+}
+
+head {background-image: url(Binary.jpg) ;}
+
+nav a{margin: 20px;}
 
