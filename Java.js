@@ -4,5 +4,5 @@ let lovesAM = confirm('do you love AM?');
 
 if (age >=26){document.write('You\re Young!');
 }
-if (age <=26){document.write('You\re Old!');
+else (age <=26){document.write('You\re Old!');
 }
