@@ -1,6 +1,10 @@
 
 *{background-color: silver;}
 
+ .donuts{float:right;
+display:inline-block;
+}
+
 img {width: 100px;
 height: 150px;
 float:left;
