@@ -1,9 +1,14 @@
-let name = 'banana';
-let age = prompt('what is your age?');
 
-let lovesAM = confirm('do you love AM?');
+function something(){
 
-if (age >=26){document.write('You\re Young!');
+    alert("Wazuuuppppppp");
+
+    let age = prompt('What is your age?');
+
+    let lovesAM = confirm('Do you love AM');
 }
-else (age <=26){document.write('You\re Old!');
-}
+
+something()
+
+
+console.log('test')
