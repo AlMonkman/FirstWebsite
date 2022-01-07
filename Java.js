@@ -10,7 +10,7 @@ function something(){
  
 }
 
-something()
+something();
 
 if (age >26) {
     document.write('You\'re Old!');
